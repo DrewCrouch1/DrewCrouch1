@@ -61,6 +61,17 @@ Microsoft Security Operations Analyst Associate (SC-200) – *In Progress*
 
 ---
 
+# Security Portfolio Index
+
+| Project | Security Domain | Skills Demonstrated |
+|--------|--------|--------|
+| [Sentinel Threat Hunt – The Broker](https://github.com/DrewCrouch1/Sentinel-Threat-Hunt---The-Broker) | Threat Hunting | KQL investigation, attack chain reconstruction |
+| [Sentinel Ransomware Investigation – Want_To_Cry](https://github.com/DrewCrouch1/Sentinel-Ransomware-Threat-Hunt--Want_To_Cry) | Ransomware Detection | behavioral detection analysis, filesystem investigation |
+| [Sentinel Live Attack Lab](https://github.com/DrewCrouch1/Sentinel-Live-Attack-Lab) | Security Monitoring | honeypot telemetry, attack visualization |
+| [Defender Endpoint Detection & Response Lab](https://github.com/DrewCrouch1/Microsoft-Endpoint-Protection-with-EDR-and-XDR) | Endpoint Security | incident triage, process tree analysis |
+| [Defender Vulnerability Remediation with Intune](https://github.com/DrewCrouch1/Microsoft-Defender-Remediation-of-ADMX) | Vulnerability Management | remediation workflows, policy deployment |
+| [Azure Conditional Access & RBAC Security](https://github.com/DrewCrouch1/Azure-Implementation-of-Conditional-Access-and-RBAC-with-JIT-and-JEA-in-Azure) | Identity Security | RBAC, Conditional Access, JIT administration |
+
 # Featured Security Projects
 
 ### Sentinel Threat Hunt – The Broker
