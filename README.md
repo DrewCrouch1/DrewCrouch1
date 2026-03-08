@@ -72,6 +72,29 @@ Microsoft Security Operations Analyst Associate (SC-200) – *In Progress*
 | [Defender Vulnerability Remediation with Intune](https://github.com/DrewCrouch1/Microsoft-Defender-Remediation-of-ADMX) | Vulnerability Management | remediation workflows, policy deployment |
 | [Azure Conditional Access & RBAC Security](https://github.com/DrewCrouch1/Azure-Implementation-of-Conditional-Access-and-RBAC-with-JIT-and-JEA-in-Azure) | Identity Security | RBAC, Conditional Access, JIT administration |
 
+# Project Highlights
+
+### Sentinel Threat Hunt – The Broker
+Full attack-chain investigation identifying phishing execution, credential harvesting, persistence mechanisms, and lateral movement.
+
+[View Investigation →](https://github.com/DrewCrouch1/Sentinel-Threat-Hunt---The-Broker)
+
+![Threat Hunt Example](https://github.com/user-attachments/assets/7a616bcd-66e8-40b7-8bea-fa2a99855279)
+
+---
+
+### Ransomware Detection Investigation
+Behavioral ransomware detection triggered by Microsoft Defender and investigated through Sentinel telemetry.
+
+[View Investigation →](https://github.com/DrewCrouch1/Sentinel-Ransomware-Threat-Hunt--Want_To_Cry)
+
+---
+
+### Sentinel Live Attack Monitoring Lab
+Azure honeypot environment capturing real-world attack attempts and visualizing them through Sentinel.
+
+[View Lab →](https://github.com/DrewCrouch1/Sentinel-Live-Attack-Lab)
+
 # Featured Security Projects
 
 ### Sentinel Threat Hunt – The Broker
