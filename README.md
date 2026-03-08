@@ -1,5 +1,7 @@
 # Andrew Crouch
 
+Azure Cloud Security Engineer | Healthcare Security | Microsoft Defender | Microsoft Sentinel
+
 ## Security Stack
 
 ![Azure](https://img.shields.io/badge/Azure-Security-0078D4?style=for-the-badge&logo=microsoftazure)
@@ -10,8 +12,6 @@
 ![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-blue?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
-
-Azure Cloud Security Engineer | Healthcare Security | Microsoft Defender | Microsoft Sentinel
 
 Security professional specializing in securing regulated healthcare environments handling **PHI and PCI workloads**. Experienced in identity governance, security risk assessment, and enterprise change control within large healthcare systems.
 
