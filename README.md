@@ -7,7 +7,6 @@
 ![Defender](https://img.shields.io/badge/Microsoft-Defender-0078D4?style=for-the-badge&logo=microsoft)
 ![Intune](https://img.shields.io/badge/Microsoft-Intune-0078D4?style=for-the-badge&logo=microsoft)
 ![Entra ID](https://img.shields.io/badge/Microsoft-Entra_ID-0078D4?style=for-the-badge&logo=microsoft)
-
 ![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-blue?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
