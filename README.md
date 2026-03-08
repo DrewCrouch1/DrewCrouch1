@@ -1,115 +1,65 @@
 # Andrew Crouch
-Azure Cloud Security Engineer | Microsoft Defender | Sentinel | Identity & Endpoint Security
 
-Security-focused technologist transitioning into a dedicated **Azure Security Engineer role** with hands-on experience building and investigating security environments using Microsoft security tooling.
+Azure Cloud Security Engineer | Healthcare Security | Microsoft Defender | Microsoft Sentinel
 
-My portfolio focuses on **realistic cloud security scenarios**, including threat detection, endpoint protection, identity security, and SIEM-based threat hunting.
+Security professional specializing in securing regulated healthcare environments handling **PHI and PCI workloads**. Experienced in identity governance, security risk assessment, and enterprise change control within large healthcare systems.
+
+Currently focused on **Azure security engineering**, building hands-on labs with Microsoft Defender, Microsoft Sentinel, and Azure security controls.
 
 ---
 
 ## Certifications
-- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+
+Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+CompTIA CySA+  
+CompTIA PenTest+  
+ISC2 SSCP  
+CompTIA Security+  
+CompTIA Network+
+
+SC-200 Microsoft Security Operations Analyst – In Progress
 
 ---
 
-## Core Skills
+## Azure Security Focus
 
-**Cloud Security**
-- Azure Security Architecture
-- Microsoft Defender XDR
+Identity Security
+- Entra ID
+- RBAC governance
+- Conditional Access
+
+Cloud Security Controls
+- Azure Policy
+- Network Security Groups
+- Defender for Cloud
+
+Threat Detection
 - Microsoft Sentinel
-- Azure RBAC / IAM
-- Identity & Access Management
+- KQL threat hunting
+- Log Analytics
 
-**Threat Detection**
-- KQL Threat Hunting
-- SIEM Investigation
-- Incident Response Workflows
-- Security Telemetry Analysis
-
-**Endpoint Security**
+Endpoint Security
 - Microsoft Defender for Endpoint
-- Intune Security Policies
-- Endpoint Detection and Response (EDR)
-
-**Identity Security**
-- Entra ID Conditional Access
-- Privileged Identity Management
-- Identity Protection
+- EDR/XDR investigation
 
 ---
 
-## Featured Security Projects
+## Featured Projects
 
-### Microsoft Sentinel Live Attack Lab
-Simulated internet-exposed VM to capture real-world attack telemetry and analyze threat actor activity using Microsoft Sentinel and KQL.
+### Sentinel Live Attack Lab
+Azure honeypot environment capturing real-world attack attempts and analyzing telemetry using Microsoft Sentinel.
 
-Key Skills:
-- SIEM deployment
-- Threat hunting with KQL
-- Attack telemetry analysis
-- Security monitoring dashboards
+### Sentinel Threat Hunt – The Broker
+Full threat hunting investigation analyzing persistence mechanisms, credential access, and attacker activity.
 
-Repo:
-https://github.com/DrewCrouch1/Sentinel-Live-Attack-Lab
-
----
-
-### Microsoft Defender Endpoint Protection with EDR/XDR
-Deployment and validation of Microsoft Defender security stack to detect and respond to endpoint threats.
-
-Key Skills:
-- Endpoint security architecture
-- Defender for Endpoint configuration
-- EDR investigation workflow
-- Security event analysis
-
-Repo:
-https://github.com/DrewCrouch1/Microsoft-Endpoint-Protection-with-EDR-and-XDR
-
----
-
-### Active Directory Policy Remediation with Microsoft Defender
-Security hardening and remediation of vulnerable policy configurations using Microsoft Defender recommendations.
-
-Key Skills:
-- Active Directory security
-- Group Policy security baselines
-- Defender vulnerability remediation
-- Security posture improvement
-
-Repo:
-https://github.com/DrewCrouch1/Microsoft-Defender-Remediation-of-ADMX
-
----
-
-## Threat Hunting & Security Writeups
-
-Example investigation writeups and threat hunting exercises using Microsoft Sentinel and Defender telemetry.
-
-Includes:
-- Incident investigation workflows
-- Threat hunting methodology
-- MITRE ATT&CK mapping
+### Defender Endpoint Detection Lab
+Deployment and investigation of Microsoft Defender EDR/XDR alerts.
 
 ---
 
 ## Current Focus
 
-- Microsoft Sentinel threat hunting
-- Defender XDR investigations
 - Azure security architecture
-- Building realistic attack simulation labs
-
----
-
-## Connect
-
-LinkedIn: *(add your link)*  
-Resume: *(optional link)*
-
----
-
-## Portfolio Goal
-
-Demonstrate practical **cloud security engineering and detection engineering skills** using Microsoft's security ecosystem.
+- Defender XDR investigations
+- Microsoft Sentinel threat hunting
+- Cloud security monitoring
